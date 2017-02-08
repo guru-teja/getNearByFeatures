@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NAME": "ICT", "Unique_ID": 1, "X": 16.650000, "Y": 13.560000, "Z": 0.000000, "Radius": 2.000000 }, "geometry": { "type": "Point", "coordinates": [ 83.314543894756326, 17.729222413650419 ] } },
+{ "type": "Feature", "properties": { "NAME": "Servers", "Unique_ID": 5, "X": 23.650000, "Y": 21.300000, "Z": 0.000000, "Radius": 2.000000 }, "geometry": { "type": "Point", "coordinates": [ 83.314586258062363, 17.729306950185151 ] } },
+{ "type": "Feature", "properties": { "NAME": "Reception", "Unique_ID": 4, "X": 16.650000, "Y": 21.300000, "Z": 0.000000, "Radius": 2.000000 }, "geometry": { "type": "Point", "coordinates": [ 83.31452283096985, 17.729289021128807 ] } },
+{ "type": "Feature", "properties": { "NAME": "Cubicles-1", "Unique_ID": 6, "X": 26.900000, "Y": 21.300000, "Z": 0.000000, "Radius": 2.000000 }, "geometry": { "type": "Point", "coordinates": [ 83.314615723941642, 17.729315280465716 ] } },
+{ "type": "Feature", "properties": { "NAME": "Cubicles-2", "Unique_ID": 7, "X": 30.100000, "Y": 21.300000, "Z": 0.000000, "Radius": 2.000000 }, "geometry": { "type": "Point", "coordinates": [ 83.314644986414436, 17.729323551717609 ] } },
+{ "type": "Feature", "properties": { "NAME": "Cubicles-3", "Unique_ID": 10, "X": 30.100000, "Y": 26.300000, "Z": 0.000000, "Radius": 2.000000 }, "geometry": { "type": "Point", "coordinates": [ 83.314631588377637, 17.729367553611837 ] } },
+{ "type": "Feature", "properties": { "NAME": "Discusser", "Unique_ID": 9, "X": 30.100000, "Y": 24.600000, "Z": 0.000000, "Radius": 2.000000 }, "geometry": { "type": "Point", "coordinates": [ 83.314636072168682, 17.729352513840265 ] } },
+{ "type": "Feature", "properties": { "NAME": "Freshers", "Unique_ID": 8, "X": 33.700000, "Y": 21.300000, "Z": 0.000000, "Radius": 2.000000 }, "geometry": { "type": "Point", "coordinates": [ 83.314677551310012, 17.72933266364608 ] } },
+{ "type": "Feature", "properties": { "NAME": "Centroid", "Unique_ID": 3, "X": 16.650000, "Y": 18.650000, "Z": 0.000000, "Radius": 2.000000 }, "geometry": { "type": "Point", "coordinates": [ 83.314530089443807, 17.729266183096673 ] } },
+{ "type": "Feature", "properties": { "NAME": "Engineers", "Unique_ID": 2, "X": 16.650000, "Y": 15.420000, "Z": 0.000000, "Radius": 2.000000 }, "geometry": { "type": "Point", "coordinates": [ 83.314538702656321, 17.729238156171558 ] } },
+{ "type": "Feature", "properties": { "NAME": "Meetingian", "Unique_ID": 11, "X": 12.900000, "Y": 21.300000, "Z": 0.000000, "Radius": 2.000000 }, "geometry": { "type": "Point", "coordinates": [ 83.314488878465738, 17.729279384992932 ] } },
+{ "type": "Feature", "properties": { "NAME": ".Net", "Unique_ID": 12, "X": 8.750000, "Y": 21.300000, "Z": 0.000000, "Radius": 2.000000 }, "geometry": { "type": "Point", "coordinates": [ 83.314451445135006, 17.729268760947598 ] } }
+]
+}

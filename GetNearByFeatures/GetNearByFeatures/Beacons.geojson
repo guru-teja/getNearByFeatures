@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "A", "X": 17.670000, "Y": 20.540000, "Z": 0.000000, "Radius": 3.500000 }, "geometry": { "type": "Point", "coordinates": [ 83.31453403251605, 17.729285611472378, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "B", "X": 20.670000, "Y": 20.540000, "Z": 0.000000, "Radius": 3.500000 }, "geometry": { "type": "Point", "coordinates": [ 83.314561088164552, 17.729293442049812, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "C", "X": 23.670000, "Y": 20.540000, "Z": 0.000000, "Radius": 3.500000 }, "geometry": { "type": "Point", "coordinates": [ 83.314588130360065, 17.729301110825634, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "D", "X": 26.670000, "Y": 20.540000, "Z": 0.000000, "Radius": 3.500000 }, "geometry": { "type": "Point", "coordinates": [ 83.31461522313424, 17.729308551510769, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "E", "X": 29.670000, "Y": 20.540000, "Z": 0.000000, "Radius": 3.500000 }, "geometry": { "type": "Point", "coordinates": [ 83.314642289170365, 17.72931634996408, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "F", "X": 29.670000, "Y": 23.540000, "Z": 0.000000, "Radius": 3.500000 }, "geometry": { "type": "Point", "coordinates": [ 83.314635334864235, 17.7293427811349, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "G", "X": 29.670000, "Y": 26.540000, "Z": 0.000000, "Radius": 3.500000 }, "geometry": { "type": "Point", "coordinates": [ 83.314627702264872, 17.729368829187603, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "H", "X": 32.670000, "Y": 20.540000, "Z": 0.000000, "Radius": 3.500000 }, "geometry": { "type": "Point", "coordinates": [ 83.314669714468039, 17.729324283013099, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "I", "X": 14.670000, "Y": 20.540000, "Z": 0.000000, "Radius": 3.500000 }, "geometry": { "type": "Point", "coordinates": [ 83.314506962264716, 17.729277961753546, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "J", "X": 11.670000, "Y": 20.540000, "Z": 0.000000, "Radius": 3.500000 }, "geometry": { "type": "Point", "coordinates": [ 83.314479666232714, 17.729270334758848, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "K", "X": 17.670000, "Y": 17.540000, "Z": 0.000000, "Radius": 3.500000 }, "geometry": { "type": "Point", "coordinates": [ 83.314542000874766, 17.729259426333162, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "L", "X": 17.670000, "Y": 14.540000, "Z": 0.000000, "Radius": 3.500000 }, "geometry": { "type": "Point", "coordinates": [ 83.314549951133102, 17.729233117162863, 0.0 ] } }
+]
+}
